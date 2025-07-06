@@ -33,3 +33,31 @@
 8. `python test_model.py`
 9. `python smart-agriculture/download_crop_dataset.py`
 10. `python smart-agriculture/predict_yield.py`
+
+## Project Structure
+
+~/Desktop/plp/edge-ai-prototype/
+├── smart-agriculture/
+│   ├── download_crop_dataset.py
+│   ├── predict_yield.py
+│   ├── yield_metrics.txt
+│   ├── data_flow_diagram.png
+│   ├── proposal.md
+│   ├── proposal.pdf
+├── download_dataset.py
+├── train_model.py
+├── convert_model.py
+├── test_model.py
+├── test_image.jpg
+├── training_history.txt
+├── accuracy_plot.png
+├── task1_report.md
+├── task1_report.pdf
+├── ethics_analysis.md
+├── ethics_analysis.pdf
+├── AI-Powered Climate-Adaptive Urban Planning for 2030 (Part 3: Futuristic Proposal)
+├── Pioneering Tomorrow's AI Innovations.pdf (Part 1: Theoretical Analysis)
+├── part2_report.pdf
+├── requirements.txt
+├── .gitignore
+├── README.md
