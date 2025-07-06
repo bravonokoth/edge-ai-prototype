@@ -1,6 +1,34 @@
-dataset/
-*.h5
-*.tflite
+# Python cache and environment folders
 __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
 venv/
 venv310/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# TensorFlow / ML models
+*.h5
+*.tflite
+
+# Dataset folders
+dataset/
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# VS Code settings
+.vscode/
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
